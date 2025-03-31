@@ -13,7 +13,7 @@ Estou graduando em Análise e Desenvolvimento de Sistemas na UNIP e ampliando me
 Contudo, aberto a oportunidades em que posso aplicar meus conhecimentos e criar experiências positivas e desafiadoras no mercado de trabalho.
 
 <p align="left">
-    <a href="https://www.youtube.com/@brenotelesc?sub_confirmation=1">
+    <a href="https://www.youtube.com/@brenotelesc">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
