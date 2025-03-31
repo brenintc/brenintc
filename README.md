@@ -113,12 +113,12 @@ Contudo, aberto a oportunidades em que posso aplicar meus conhecimentos e criar 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=brenintc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenintc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenintc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
