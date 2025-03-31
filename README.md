@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Breno Teles
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Formado no ensino médio integrado ao técnico em Marketing pela Etec Prof. Basilides de Godoy, sempre tive interesse na área da tecnologia, persuasão e comportamento humano.
 
