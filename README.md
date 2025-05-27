@@ -38,7 +38,7 @@ Contudo, aberto a oportunidades em que posso aplicar meus conhecimentos e criar 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/brenintc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/brenintc?color=55960c"
         />
     </a>
     <a href="https://github.com/brenintc?tab=followers">
