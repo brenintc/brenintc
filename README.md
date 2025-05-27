@@ -27,13 +27,6 @@ Contudo, aberto a oportunidades em que posso aplicar meus conhecimentos e criar 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCcCbVxwLOUkDxy4brCZwKGg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://breno-teles-portfolio.vercel.app/">
-        <img 
-            alt="portfolio" 
-            title="Portfólio" 
-            src="?logo=elemento-isolado-da-web-do-icone-da-rede-social-global-em-vetor-plano_833641-1084&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/brenintc?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
