@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Formado em Marketing pela ETEC Basilides de Godoy e graduando em Análise e Desenvolvimento de Sistemas na UNIP. Apaixonado por tecnologia, programação e soluções que otimizam o dia a dia das empresas. Portfólio: https://breno-teles-portfolio.vercel.app/
+Formado em Marketing pela ETEC Basilides de Godoy e graduando em Análise e Desenvolvimento de Sistemas na UNIP. Apaixonado por tecnologia, programação e soluções que otimizam o dia a dia das empresas.
 
 <p align="left">
     <a href="https://www.youtube.com/@brenotelesc">
